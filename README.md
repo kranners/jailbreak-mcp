@@ -1,10 +1,16 @@
 # jailbreak-mcp
 
+> [!IMPORTANT]
+> This tool existed to fill a few functional gaps in existing MCP clients
+> like Cursor or Claude Desktop, and is now antiquated as these tools implement it themselves.
+>
+> The idea was to create a middleware MCP server & client which could whitelist or blacklist
+> unwanted tools to save on context window, and to expose resources & prompts as tools.
+
+---
+
 A MCP server wrapper for using the entire Model Context Protocol without tool
 limits, missing concepts, or context overload.
-
-> [!WARNING]
-> This tool is actively being developed. Watch out! 🐉
 
 ## Why does this exist?
 
