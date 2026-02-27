@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kranners-jailbreak-mcp-badge.png)](https://mseep.ai/app/kranners-jailbreak-mcp)
+
 # jailbreak-mcp
 
 > [!IMPORTANT]
